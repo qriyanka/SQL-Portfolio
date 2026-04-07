@@ -6,7 +6,10 @@ data engineering and analytics roles.
 ## Platforms
 | Platform | Focus | Status |
 |---|---|---|
-| SQL Zoo | Core fundamentals | In Progress |
-| LeetCode SQL 50 | Interview prep | Up Next |
-| pgexercises | Postgres-specific | Up Next |
-| Mode SQL Tutorial | Analytics/DE | Up Next |
+| SQL Zoo | Core fundamentals | Done |
+| LeetCode SQL 50 | Interview prep | Done |
+| pgexercises | Postgres-specific | Done |
+| Mode SQL Tutorial | Analytics/DE | Done |
+
+
+Will add more files to this 
